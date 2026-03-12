@@ -26,7 +26,7 @@ const galleryImages = [
     alt: 'Cafe ambiance',
   },
   {
-    url: '/gallery/main.png',
+    url: '/gallery/main2.png',
     alt: 'Coffee moments',
   },
 ];
